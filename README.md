@@ -58,7 +58,9 @@ Este é um projeto **Open Source**. Se você gosta de futebol, estatística ou q
 
 ## 📄 Licença
 
-Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a Licença **GNU General Public License v3.0 (GPLv3)**. Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
+
+Ao adotar esta licença, garantimos que o Campo Aberto e qualquer melhoria feita por terceiros permaneçam sempre abertos e gratuitos para a comunidade.
 
 ---
 
