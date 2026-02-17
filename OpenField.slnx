@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="../../../../../../../../repo/OpenField/src/OpenField.Api/OpenField.Api.csproj" />
+    <Project Path="../../../../../../../../repo/OpenField/src/OpenField.Application/OpenField.Application.csproj" Id="c407f17b-faf7-44c9-bc71-9b1842abb434" />
+    <Project Path="../../../../../../../../repo/OpenField/src/OpenField.Core/OpenField.Core.csproj" Id="eaeb1877-e3f4-4e45-8c55-4c6f5a76a26c" />
+    <Project Path="../../../../../../../../repo/OpenField/src/OpenField.Infra.Data/OpenField.Infra.Data.csproj" Id="91e94173-f234-4d5f-bc2f-58434a508aa9" />
+    <Project Path="../../../../../../../../repo/OpenField/src/OpenField.Infra.Integrations/OpenField.Infra.Integrations.csproj" Id="551015ad-d8e0-41f2-8416-8d0fbc894ca2" />
+    <Project Path="../../../../../../../../repo/OpenField/src/OpenField.Worker/OpenField.Worker.csproj" Id="57b94c26-ad75-4491-b210-e17fd9e51f3f" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>

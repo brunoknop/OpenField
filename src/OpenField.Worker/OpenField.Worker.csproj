@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OpenField.Application\OpenField.Application.csproj" />
+    <ProjectReference Include="..\OpenField.Infra.Data\OpenField.Infra.Data.csproj" />
+    <ProjectReference Include="..\OpenField.Infra.Integrations\OpenField.Infra.Integrations.csproj" />
+  </ItemGroup>
+
+</Project>

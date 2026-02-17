@@ -1,0 +1,6 @@
+@OpenField.Api_HostAddress = http://localhost:5110
+
+GET {{OpenField.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

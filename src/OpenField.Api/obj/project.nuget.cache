@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEWU8OL7IBc=",
+  "success": true,
+  "projectFilePath": "C:\\repo\\OpenField\\src\\OpenField.Api\\OpenField.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
